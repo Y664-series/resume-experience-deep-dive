@@ -1,0 +1,4 @@
+interface:
+  display_name: "履历经历深挖"
+  short_description: "耐心深挖单段求职经历，生成可信母档、面试锚点与岗位定制简历材料"
+  default_prompt: "Use $resume-experience-deep-dive to deeply interview me about one experience and create a verified experience archive."
